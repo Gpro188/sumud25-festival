@@ -1,0 +1,52 @@
+SUMUD'25 arts fest result pulishing web app
+html, php, java, css
+
+User Authentication & Access Control**: Let's go with **c. Both admin panel + public viewing**. Admins need to manage, and the public needs to see results without logging in
+
+not add admin button in public page make it uniqu link
+
+catogory 
+
+BIDAYA
+THANIYA
+
+
+3  teams
+
+result updataing
+point system
+
+individual - category
+1st - 5
+2nd - 3
+3rd - 1  
+A grade - 5
+B grade - 3
+
+group - category
+1st - 7
+2nd - 5
+3rd - 2
+A grade - 5
+B grade - 3
+
+general - category
+1st - 10
+2nd - 7
+3rd - 5
+A grade - 5
+B grade - 3
+
+
+viwes
+the viwes can see the reslts by intiviganl name or catograzad programe filter serch
+ and show total programe point higligt and top 3 in team and catogory 
+
+
+admin can
+
+add teams name and leader and manager
+add team students list
+update result by selecting catogory and  search programme and candidate add result
+
+
