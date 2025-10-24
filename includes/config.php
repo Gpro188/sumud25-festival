@@ -1,8 +1,9 @@
 <?php
 // Database configuration for SUMUD'25 Arts Festival
-define('DB_HOST', 'localhost');
-define('DB_NAME', 'sumud25_festival');
-define('DB_USER', 'root');
+// Updated for InfinityFree hosting
+define('DB_HOST', 'sql107.infinityfree.com');
+define('DB_NAME', 'if0_40237012_sumud');
+define('DB_USER', 'if0_40237012');
 define('DB_PASS', '');
 
 // Create PDO connection
